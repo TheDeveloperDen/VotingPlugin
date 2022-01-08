@@ -7,8 +7,6 @@ author: BenCodez
 softdepend: [MVdWPlaceholders, Votifier, VotifierPlus, NuVotifier, CMI, Vault, PlaceholderAPI, ProtocolLib, MVdWPlaceholderAPI, AuthMe]
 loadbefore: [MCPerks]
 api-version: 1.13
-libraries:
-  - org.openjdk.nashorn:nashorn-core:15.3
 commands:
   vote:
     description: Vote command
